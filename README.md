@@ -1,4 +1,4 @@
-# latlong
+# LeetCode
 
 ![image](https://user-images.githubusercontent.com/101462877/181625932-a7221c87-e28a-4d22-9495-74891139fe68.png)
 
