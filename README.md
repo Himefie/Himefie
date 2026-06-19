@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Reach out to me at henry.nelson89@gmail.com or at linkedin!
+
+
 <!--
 **Himefie/Himefie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
